@@ -1,6 +1,6 @@
 PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
 
-This privacy policy governs your use of the software application Go Sanic Goo! MLG (“Application”) for mobile devices that was created by SergeChateau_u. The Application is a videogame with infinite running theme that show advertsments and uses the "android.permission.read_phone_state" that allows the SDK to handle video playback when interrupted by a call. 
+This privacy policy governs your use of the software application descripted in the current webpage (“Application”) for mobile devices that was created by SergeChateau_u. The Application is a videogame with running theme that show advertsments and uses the "android.permission.read_phone_state" that allows the SDK to handle video playback when interrupted by a call. 
 
  
 
